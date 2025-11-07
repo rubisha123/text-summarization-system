@@ -1,0 +1,7 @@
+* Custom Streamlit styling */
+.stTextArea textarea {
+    font-size: 14px !important;
+}
+.stButton button {
+    background-color: #4CAF50 !important;
+}
